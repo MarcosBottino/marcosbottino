@@ -1,5 +1,8 @@
-### Hi there 👋
+### ✨ My NEW Web Page ✨ 
 
+This is my new responsive Web Page, encompasses my studies, experiences and projects. all in one! 
+
+Welcome... 👋
 <!--
 **MarcosBottino/marcosbottino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
